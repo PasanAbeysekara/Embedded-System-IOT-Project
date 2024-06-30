@@ -9,7 +9,7 @@
 #include "addons/RTDBHelper.h"
 
 #define WIFI_SSID "NOT_FOUND"
-#define WIFI_PASSWORD "ED9E10DF"
+#define WIFI_PASSWORD "696969"
 
 #define API_KEY "AIzaSyBPs3uqNz7FbSkdTjaYoBGh_156s2WXx4s"
 
